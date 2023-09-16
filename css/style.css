@@ -1,0 +1,153 @@
+*{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    /* background-color: red; */
+
+     /* background-image: url(/vdo\ girl.jpg);
+    opacity: .5;  */
+
+}
+#footer{
+    background-color: brown;
+}
+.navigation{
+    height: 50px;
+    /* background-color: blueviolet; */
+    display: flex;
+  align-items: center;
+  justify-content: space-between;
+  
+  padding: 20px;
+    
+}
+.content{
+    height: 500px;
+    background-color: rgb(19, 201, 207); 
+}
+
+.footer{
+    height: 50px;
+    background-color: rgb(44, 137, 40);
+}
+/* li:hover{
+    font-size: 1.2rem;
+    border: 1px solid blue;
+    border-radius: 5px;
+    color: black;
+    background-color: white;
+    justify-content: center;
+    /* padding: 5px; */
+   .a1:hover{
+        font-size: 1.2rem;
+        border: 1px solid blue;
+        border-radius: 5px;
+        color: black;
+        background-color: white;
+        justify-content: center;
+        /* padding: 5px; */
+        cursor: pointer;
+    }
+    .first{
+        display: flex;
+        column-gap: 200px;
+        row-gap: 100px;
+        color: aliceblue;
+    }
+    .first a{
+        font-size: 1.3rem;
+        color: azure;
+    }
+    .a2:hover{
+        font-size: 1.2rem;
+        border: 1px solid blue;
+        border-radius: 5px;
+        color: black;
+        background-color: white;
+        justify-content: center;
+        padding: 5px;
+        cursor: pointer;
+    }
+    .a3:hover{
+        font-size: 1.2rem;
+        border: 1px solid blue;
+        border-radius: 5px;
+        color: black;
+        background-color: white;
+        justify-content: center;
+        /* padding: 5px; */
+        cursor: pointer;
+    }
+
+    .a4:hover{
+        font-size: 1.2rem;
+        border: 1px solid blue;
+        border-radius: 5px;
+        color: black;
+        background-color: white;
+        justify-content: center;
+        /* padding: 5px; */
+        cursor: pointer;
+    }
+.btn:hover{
+    background-color: red;
+    border: 2px solid black;
+    border-radius: 5px ;
+    height: 40px;
+    transition: all 1.3s ease-in-out;
+    width: 80px;
+    font-size: 1.4rem;
+    box-shadow: 0 0 20px 0;
+    cursor: pointer;
+}
+.btn{
+    background-color: goldenrod;
+    color: wheat;
+    font-size: 1.5rem;
+    border-radius: 5px ;
+}
+.left ul {
+    border-radius: 5px ;
+    display: flex;
+   
+ list-style-position: inside;
+ padding: 20px;
+ 
+}
+.ul{
+    /* display: flex; */
+    padding: 50px;
+    column-gap: 20px;
+  
+}
+.line{
+    margin: 20px;
+    width: 1500px;
+}
+.left ul li{
+   display: flex;
+   position: relative;
+   bottom: 8px;
+    border: 1px solid blue;
+    background: wheat;
+    box-shadow: 0 0 10px 0;
+    border-radius: 5px ;
+}
+.input{
+    border: 3px solid blue;
+    box-shadow: 0 0 10px 0;
+    border-radius: 5px ;
+   
+}
+.input:hover{
+    border-radius: 5px ;
+    cursor: pointer;
+
+    transition: all 1.3sec ease-in-out;
+    border: 3px solid rgb(22, 201, 192);
+    box-shadow: 0 0 10px 0 yellowgreen;
+    height: 27px;
+}
+/* .left{
+    display: flex;
+} */
